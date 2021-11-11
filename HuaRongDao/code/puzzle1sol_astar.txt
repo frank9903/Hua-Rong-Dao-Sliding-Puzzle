@@ -1,0 +1,27 @@
+Initial state:
+2663
+2773
+4115
+4115
+7007
+
+Cost of the solution: 1
+
+Number of states expanded: 2
+
+Solution: 
+
+0
+2663
+2773
+4115
+4115
+7007
+
+1
+2663
+2773
+4005
+4115
+7117
+
